@@ -8,4 +8,4 @@ The NEU portal is an essential tool for students, faculty, and staff at Northeas
 - Automated tests for login functionality.
 - Tests for accessing different sections of the portal such as grades, class schedule, and announcements.
 - Cross-browser testing for compatibility with major browsers.
-- Continuous integration with tools like Jenkins for automated testing on each commit.
+
